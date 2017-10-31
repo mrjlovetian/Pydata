@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dc50433-160d-4e86-a146-bc6bf3bab4e9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/NationalReadMe.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qbb.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Pydata.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1880.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1881.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1882.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1883.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1884.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1885.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1886.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1887.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1888.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1889.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1890.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1891.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1892.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1893.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1894.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1895.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1896.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1897.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1898.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1899.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1900.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1901.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1902.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1903.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1904.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1905.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1906.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1907.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1908.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1909.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1910.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1911.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1912.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1913.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1914.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1915.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1916.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1917.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1918.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1919.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1920.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1921.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1922.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1923.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1924.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1925.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1926.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1927.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1928.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1929.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1930.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1931.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1932.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1933.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1934.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1935.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1936.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1937.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1938.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1939.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1940.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1941.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1942.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1943.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1944.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1945.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1946.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1947.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1948.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1949.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1950.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1951.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1952.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1953.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1954.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1955.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1956.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1957.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1958.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1959.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1960.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1961.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1962.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1963.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1964.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1965.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1966.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1967.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1968.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1969.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1970.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1971.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1972.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1973.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1974.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1975.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1976.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1977.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1978.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1979.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1980.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1981.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1982.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1983.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1984.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1985.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1986.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1987.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1988.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1989.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1990.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1991.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1992.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1993.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1994.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1995.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1996.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1997.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1998.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob1999.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2001.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2002.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2003.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2004.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2005.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2006.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2007.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2008.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2009.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babynames/yob2010.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdqbb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pydata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/three.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pydata.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pydata.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="three.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/three.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pdqbb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pdqbb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pydata.py" />
+        <option value="$PROJECT_DIR$/three.py" />
+        <option value="$PROJECT_DIR$/pdqbb.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pydata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pydata" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dc50433-160d-4e86-a146-bc6bf3bab4e9" name="Default" comment="" />
+      <created>1509415341567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509415341567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pydata.py</url>
+          <line>13</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pydata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pydata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdqbb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
